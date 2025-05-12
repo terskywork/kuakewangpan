@@ -29,30 +29,29 @@
 打开“我的”界面，点击“完善信息”，参考以下案例步骤完善你的个人信息即可.
 
 ![image](https://github.com/user-attachments/assets/7f7173e3-b12c-4cd4-ac4f-cd0970caf23c)
+![image](https://github.com/user-attachments/assets/67fcf407-cc87-4806-9dfb-092bb5d21581)
+![image](https://github.com/user-attachments/assets/0fcd800f-cde3-47ef-9849-089c0aff9545)
 
-![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/0a159cd240cd4ffcb18232bd1203d80d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3NTYwODM4MzU2Nzcy:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjUwNTEwMDgxMTMxNDgyNSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1747637070&x-orig-sign=0WYDsPOFCC8xLpvPRO6NXsaEc9s%3D)
-
-![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/3c063ec283d1488f8a6145b9cae7db61~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3NTYwODM4MzU2Nzcy:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjUwNTEwMDgxMTMxNDgyNSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1747637070&x-orig-sign=Zh%2BRCeXwGzVtXBTRi%2B7AxfNgfuo%3D)
 3.3 夸克账号绑定任推邦
-打开此链接，绑定任推邦<https://b.quark.cn/apps/c3qMkYerj/routes/J1bMu5GVq?uc_param_str=dsdnfrpfbivesscpgimibtbmnijblauputogpintnwktprchmt&uc_biz_str=S:custom%7CC:titlebar_hover_2​编辑https://b.quark.cn/apps/c3qMkYerj/routes/J1bMu5GVq?uc_param_str=dsdnfrpfbivesscpgimibtbmnijblauputogpintnwktprchmt&uc_biz_str=S:custom%7CC:titlebar_hover_2>
+[打开此链接，绑定任推邦](https://b.quark.cn/apps/c3qMkYerj/routes/J1bMu5GVq?uc_param_str=dsdnfrpfbivesscpgimibtbmnijblauputogpintnwktprchmt&uc_biz_str=S:custom%7CC:titlebar_hover_2>)
 
-![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/4be2beced4d4457abe8c7ff3fb3d0c14~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3NTYwODM4MzU2Nzcy:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjUwNTEwMDgxMTMxNDgyNSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1747637070&x-orig-sign=UCpwocxBiuGjwVj7okN5ExlBAMc%3D)
+![image](https://github.com/user-attachments/assets/b3e338c8-42d4-4c44-adaf-1db807dc1c14)
+
 3.4 ~~首选申请推广码~~
 进入任推邦链接，选择“夸克网盘”，按照下图步骤依次操作即可。
+![image](https://github.com/user-attachments/assets/a3c3c4ff-7015-4a2c-bafb-4a2e7a104f7b)
+![image](https://github.com/user-attachments/assets/f74a4dcd-0bd2-4cf9-ab9b-e4d660718326)
+![image](https://github.com/user-attachments/assets/9ffc0045-5679-484f-9df3-0cf7578052ee)
+![image](https://github.com/user-attachments/assets/74c40f44-cd12-4cb5-89d9-b53e2db86cca)
 
-![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/5683db6792bf492599ca0cf90f291908~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3NTYwODM4MzU2Nzcy:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjUwNTEwMDgxMTMxNDgyNSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1747637070&x-orig-sign=haac2ito0Rv9zg1PIuEN5IPMOLI%3D)
 
-![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/e69b134c4e1147d0bf8cdd237ada7315~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3NTYwODM4MzU2Nzcy:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjUwNTEwMDgxMTMxNDgyNSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1747637070&x-orig-sign=9Q8fviigcRJxWr%2BQl%2FDGNY5BD28%3D)
-
-![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/bab6515052034107a94cd08a34578988~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3NTYwODM4MzU2Nzcy:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjUwNTEwMDgxMTMxNDgyNSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1747637070&x-orig-sign=psgMLIImvEiT4K446vFGayLz1hg%3D)
-
-![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/b7b36c375f3f49f08ffc5f53627ca88e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3NTYwODM4MzU2Nzcy:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjUwNTEwMDgxMTMxNDgyNSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1747637070&x-orig-sign=QeANVYDSQBzT5WWzswISM5%2BxV0Q%3D)
 等待 1 个工作日基本就能审核完成，毕竟是白嫖的资源，请耐心等待一下哟\~
 审核通过之后，该夸克账号就正式开通了推广权限了！！！
 3.5 有了推广码之后,网盘空间会自动扩容!
 一般 1~~2 个工作日就可以申请成功了，耐心等待免费的 20T 容量到账吧，这是可以一直叠加的，反复申请就好啦！！！
 你也快来领取吧~~.
 已成功领取截图.
-![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/9f046a14dd79400b9081d52375e8204a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3NTYwODM4MzU2Nzcy:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjUwNTEwMDgxMTMxNDgyNSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1747637070&x-orig-sign=tLGNA62dNN%2F%2BarStwhxb5MEYl8U%3D)
+![image](https://github.com/user-attachments/assets/5b67c677-f63f-426d-95f4-dd737bf87990)
+
 
 
