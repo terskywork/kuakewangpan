@@ -6,8 +6,8 @@
     使用手机打开夸克 APP，保存以下资源可获取 1T 存储空间
     资源链接：[夸克网盘分享](\[https://pan.quark.cn/s/27d1620a691c])
     操作步骤如下图所示：选择文件,点击保存到网盘.
-    ![image](https://github.com/user-attachments/assets/b550cf3c-7038-48d1-bb1f-9498a58fbecc)
-    ![image](https://github.com/user-attachments/assets/5516bdc5-8bd6-4a9f-b94e-7fa01c4ab6d2)
+![image](https://github.com/user-attachments/assets/b550cf3c-7038-48d1-bb1f-9498a58fbecc).
+![image](https://github.com/user-attachments/assets/5516bdc5-8bd6-4a9f-b94e-7fa01c4ab6d2).
 ## 2. 夸克 APP 签到得永久存储空间
 打开夸克 APP，按照以下步骤依次操作即可.
 ![image](https://github.com/user-attachments/assets/85f8cdd1-bffe-46f3-b0b9-f1b0e6958b6c)
