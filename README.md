@@ -7,7 +7,7 @@
     资源链接：
 ## [夸克网盘分享]([https://pan.quark.cn/s/27d1620a691c])
 
-    操作步骤如下图所示：选择文件,点击保存到网盘.
+## 操作步骤如下图所示：选择文件,点击保存到网盘.
 ![image](https://github.com/user-attachments/assets/b550cf3c-7038-48d1-bb1f-9498a58fbecc).
 ![image](https://github.com/user-attachments/assets/5516bdc5-8bd6-4a9f-b94e-7fa01c4ab6d2).
 ## 2. 夸克 APP 签到得永久存储空间
@@ -20,7 +20,8 @@
 ## 3. 免费扩容 20T 福利
     3.1 注册并登录任推邦 APP
     \~\~ 邀请码\~\~：058649
-    点击此链接，进行注册操作<https://dt.bd.cn/#/pages/login/register?invite_code=058649编辑https://dt.bd.cn/#/pages/login/register?invite_code=058649>
+[点击此链接，进行注册操作](https://dt.bd.cn/#/pages/login/register?invite_code=058649编辑https://dt.bd.cn/#/pages/login/register?invite_code=058649).
+[点击此链接，进行注册操作](https://dt.bd.cn/#/pages/login/register?invite_code=058649编辑https://dt.bd.cn/#/pages/login/register?invite_code=058649).
     点击注册链接到注册界面：
 ![image](https://github.com/user-attachments/assets/e4d6d50a-9776-4968-a435-b26b826ee187)
 
